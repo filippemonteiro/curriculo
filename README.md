@@ -9,7 +9,7 @@ Usado na aula 02 de git
 por exemplo, git pull origin main
 
 ---
-Agora você alteera e/ou cria os arquivos conforme
+Agora você altera e/ou cria os arquivos conforme
 a solicitação do cliente e depois segue o processo abaixo
 ---
 
